@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deploy-ghp-react/static/css/main.7eee344e.chunk.css",
+    "main.js": "/deploy-ghp-react/static/js/main.0ba79261.chunk.js",
+    "main.js.map": "/deploy-ghp-react/static/js/main.0ba79261.chunk.js.map",
+    "runtime-main.js": "/deploy-ghp-react/static/js/runtime-main.ce40d601.js",
+    "runtime-main.js.map": "/deploy-ghp-react/static/js/runtime-main.ce40d601.js.map",
+    "static/js/2.7e47df96.chunk.js": "/deploy-ghp-react/static/js/2.7e47df96.chunk.js",
+    "static/js/2.7e47df96.chunk.js.map": "/deploy-ghp-react/static/js/2.7e47df96.chunk.js.map",
+    "index.html": "/deploy-ghp-react/index.html",
+    "static/css/main.7eee344e.chunk.css.map": "/deploy-ghp-react/static/css/main.7eee344e.chunk.css.map",
+    "static/js/2.7e47df96.chunk.js.LICENSE.txt": "/deploy-ghp-react/static/js/2.7e47df96.chunk.js.LICENSE.txt",
+    "static/media/close.eba4f42b.svg": "/deploy-ghp-react/static/media/close.eba4f42b.svg",
+    "static/media/store-selected.c9f319ce.svg": "/deploy-ghp-react/static/media/store-selected.c9f319ce.svg",
+    "static/media/store.0575448c.svg": "/deploy-ghp-react/static/media/store.0575448c.svg",
+    "static/media/user-selected.670ee378.svg": "/deploy-ghp-react/static/media/user-selected.670ee378.svg",
+    "static/media/user.0745c16c.svg": "/deploy-ghp-react/static/media/user.0745c16c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce40d601.js",
+    "static/js/2.7e47df96.chunk.js",
+    "static/css/main.7eee344e.chunk.css",
+    "static/js/main.0ba79261.chunk.js"
+  ]
+}
